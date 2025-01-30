@@ -1,0 +1,129 @@
+*{
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: rgb(31, 31, 33);
+  
+}
+.head1{
+    padding-top: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 100%;
+    height: 105px;
+    background-color: rgb(31, 31, 33);
+}
+.head2{
+    
+}
+.yaki-img{
+    color: white;
+}
+.yaki1{
+    list-style: none;
+    display: flex;
+    gap: 500px;
+   
+}
+.profile{
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+}
+.marketing-1{
+    width: 100%;
+    gap: 10px;
+}
+.marketing-1{
+    padding-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+#white-bold{
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 0px;
+}
+#white-small{
+    color: white;
+    margin-top: 0px;
+    font-size: large;
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
+#white-slim{
+    color: grey;
+    font-size: medium;
+    font-weight: bolder;
+}
+.marketing-img{
+    width: 50%;
+    height: 400px;
+}
+#join-faltu-group{
+    background-color: rgb(227 252 2);
+    width: 50%;
+    height: 50px;
+    border: none;
+    font-size: medium;
+}
+
+.sub-text1{
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    gap: 20px;
+}
+#btn{
+    border: 1px solid #bd9400;
+    width: 20%;
+    height: 60px;
+    padding-bottom: 10px;
+    align-items: center;
+    font-size: medium;
+    background-color: black;
+    color: white;
+    height: 90px;
+    text-align: center;
+    
+}
+#heading{
+    background-color: black;
+    
+}
+.faltu-product{
+    border: #bd9400 1px solid;
+    width: 500px; 
+    height: 300px;
+    }
+.faltu-product1{
+    
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.faltu-strag{
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.faltu-strag1{
+    border: 1px solid #bd9400 ;
+    width: 40%;
+    justify-content: flex-start;
+    align-self: center;
+    height: 450px;
+}
+.faltu-image{
+    
+}
