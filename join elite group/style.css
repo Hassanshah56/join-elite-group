@@ -6,24 +6,21 @@
   background-color: rgb(31, 31, 33);
   
 }
-.head1{
-    padding-top: 5px;
-    margin-left: 250px;
-    margin-right: 250px;
+.head2{
+    background-color: rgb(31, 31, 33);
+    display: flex;
+    justify-content: center;
     width: 100%;
     height: 105px;
-    background-color: rgb(31, 31, 33);
+    position:fixed;
+    width: 100%;
 }
-.head2{
-    
-}
-.yaki-img{
-    color: white;
-}
+
 .yaki1{
     list-style: none;
     display: flex;
-    gap: 500px;
+    gap: 600px;
+    padding-top: 10px;
    
 }
 .profile{
@@ -98,8 +95,11 @@
 }
 .faltu-product{
     border: #bd9400 1px solid;
-    width: 500px; 
-    height: 300px;
+    width: 400px; 
+    
+    color: white;
+    justify-content: center;
+    text-align: center;
     }
 .faltu-product1{
     
@@ -116,9 +116,10 @@
     display: flex;
     justify-content: center;
     gap: 40px;
+    padding-bottom: 100px;
 }
 .faltu-strag1{
-    border: 1px solid #bd9400 ;
+    padding-top: 100px;
     width: 40%;
     justify-content: flex-start;
     align-self: center;
@@ -126,4 +127,98 @@
 }
 .faltu-image{
     
+}
+#faltu-para{
+    color: grey;
+    margin-bottom: 0px;
+}
+#faltu-head1{
+    margin-top: 0px;
+    color: white;
+    font-size: 50px;
+}
+#faltu-para1{
+    color: grey;
+    font-size: larger;
+}
+.faltu-elite{
+    
+    justify-content: center;
+    display: flex;
+    width: 100%;
+   padding-top: 100px;
+   
+    
+}
+.eidc{
+    border: #bd9400 1px solid;
+    display: flex;
+    gap: 200px;
+    padding: 50px;
+}
+#pas{
+    padding-left: 50px;
+}
+#pas1{
+
+    text-align: center;
+}
+.faltu-elite-paras{
+    color: white;
+    margin-top: 0px;
+    font-size: 19px;
+}
+.details{
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.faltu-details{
+    color: white;
+    width: 30%;
+    text-align: center;
+    
+}
+#grey{
+    font-size: small;
+    color: grey;
+    margin-bottom: 0px;
+}
+#grey-haed{
+    margin-top: 0px;
+    font-size: 40px;
+}
+.details1{
+    border: grey 1px solid;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.para6{
+    color: grey;
+}
+.sub{
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.faltu-sub{
+  width: 50%;
+  text-align: center;
+}
+#faltuhead{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+#faltupara{
+    color: grey;
+    margin-top: 0px;
+    
+}
+#faltusearch{
+    width:350px ;
 }
