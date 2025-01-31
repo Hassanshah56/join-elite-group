@@ -220,5 +220,16 @@
     
 }
 #faltusearch{
-    width:350px ;
+    width:250px ;
+    position: relative;
+    border: 1px grey solid;
+    height: 40px;
+}
+#btn1{
+    color: white;
+    border: 1px solid grey;
+    position: absolute;
+    right: 820px;
+    width: 40px;
+    height: 40px;
 }
